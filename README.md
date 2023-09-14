@@ -4,4 +4,4 @@ This repository contains the source code for my portfolio built with Next.js. Th
 
 ## Live Demo
 
-You can view the live, hosted version of the portfolio here: [Portfolio Link](https://your-portfolio-link.com)
+You can view the live, hosted version of the portfolio [here](https://amelieav.github.io/)
