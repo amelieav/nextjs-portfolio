@@ -1,0 +1,35 @@
+/* VerticalElement.module.css */
+
+.background{
+  background-color: #202330;
+}
+
+.iconWrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+  
+.iconImage {
+  max-width: 60%;
+  max-height: 60%;
+}
+  
+.customDateStyle {
+  color: #ffffff !important;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+/* To add more space between vertical time line elements */
+.moreSpace {
+  padding-right: 0.3rem;
+  padding-left: 0.3rem;
+}
+
+.iconBackground{
+  background-color: #393c5c;
+}
